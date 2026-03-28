@@ -6,10 +6,10 @@ This project focuses on analyzing an e=commerce dataset to understand customer p
 The dataset is collected from Kaggle and it containes 9994 rows and 21 columns. It has numerical columns like Sales, Profit, Discount and Categorical columns such as Category, Sub-Category, Region, Product.
 
 #### Prediction Model:
-Model Used: Linear Regression
-Target Variable: Profit
-Feature Used: Sales
-Evaluation: R^2 Score
+Model Used: Linear Regression,
+Target Variable: Profit,
+Feature Used: Sales,
+Evaluation: R^2 Score.
 
 #### Result:
 The model shows that sales has a significant impact on profit but other factors like discount and category also influence the outcome.
